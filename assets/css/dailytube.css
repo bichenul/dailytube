@@ -1,83 +1,83 @@
 body {
     background-color: whitesmoke !important;
-    margin : 10px 10px 10px 10px !important;
-	height:1500px;
-	position:relative;
+    /*margin : 10px 10px 10px 10px !important;*/
+	height:100% !important;
+	/*position:relative;*/
+	overflow: hidden !important;
 }
 
-.custom-container{
-	margin-top: 50px !important;
+footer {
+    position: absolute;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    background-color: #636a63;
+    height: 30px !important;
+    color: white;
 
-}
-
-.colonne-centree
-{
-float: none;
-margin: 0 auto;
-}
-
-.no-pad{
-	    padding:0px 0px 0px 0px !important;
-}
-
-
-.no-padding > [class*='col-'] {
-    padding-right:0 !important;
-    padding-left:0 !important;
-}
-
-.no-margin-bottom{
-    margin-bottom:-5px !important;
-}
-
-.margin-bottom-10 {
-	margin-bottom: 15px !important;
 }
 
 .modal-dialog {width:600px;}
 .thumbnail {margin-bottom:6px;}
 
- /* Remove the navbar's default margin-bottom and rounded borders */
-    .navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-    }
+ /* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
+  margin-bottom: 0 !important;
+  border-radius: 0 !important;
+  background-color:whitesmoke;
+}
 
-    /* Set height of the grid so .sidenav can be 100% (adjust as needed) */
-    .row.content {height: 450px}
+ul.nav-pills {
+  top: 75px !important;
+  position: fixed !important;
+}
+  
+div .col-xs-12 .col-sm-10 .ol-md-10 .col-lg-10 div{
+  height: 250px !important;
+}
 
-    /* Set gray background color and 100% height */
-    .sidenav {
-      padding-top: 20px;
-      background-color: #f1f1f1;
-      height: 100%;
-    }
+/*----------------- class ajoutées manuellement-------------------*/
+.menu-horizontal2 {
+    position: absolute !important;
+    top: 55px !important;
+    bottom: 0px !important;
+    display: inline-block !important;
+}
 
-    /* Set black background color, white text and some padding */
-    footer {
-      background-color: #555;
-      color: white;
-      padding: 15px;
-    }
+.center-navbar {
+width: 100% !important;
+text-align: center !important;
+}
+.center-navbar > li {
+float: none !important;
+display: inline-block !important;
+}
 
-    /* On small screens, set height to 'auto' for sidenav and grid */
-    @media screen and (max-width: 767px) {
-      .sidenav {
-        height: auto;
-        padding: 15px;
-      }
-      .row.content {height:auto;}
-    }
+html body .container-fluid.divPrincipale {
+    position: absolute !important;
+    top: 80px !important;
+    bottom: 30px !important;
+    right: 0 !important;
+    left: 0 !important;
+    overflow-y: auto !important;
+}
 
 
-  ul.nav-pills {
-      top: 75px;
-      position: fixed;
-  }
 
-  div .col-xs-12 .col-sm-10 .ol-md-10 .col-lg-10 div{
-      height: 250px;
-  }
+.no-pad{
+	    padding:0 0 0 0 !important;
+}
+.no-padding > [class*='col-'] {
+    padding-right:0 !important;
+    padding-left:0 !important;
+}
+.no-margin-bottom{
+    margin-bottom:-10px !important;
+}
+.margin-bottom-10 {
+	margin-bottom: 15px !important;
+}
+
 /*
   #Films {color: #fff; background-color: #1E88E5;}
   #Sport{color: #fff; background-color: #673ab7;}
@@ -85,8 +85,12 @@ margin: 0 auto;
   #Actualites {color: #fff; background-color: #00bcd4;}
   #Populaire{color: #fff; background-color: #009688;}
 */
-  @media screen and (max-width: 810px) {
-    #section1, #section2, #section3, #section41, #section42  {
-        margin-left: 150px;
-    }
-  }
+/*
+.align-center {
+    text-align: center;
+    margin: 0 auto;
+    width: inherit;
+    display:inline-block;
+    float: none;
+    width: inherit;
+}*/
