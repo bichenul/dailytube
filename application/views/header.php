@@ -9,24 +9,24 @@
         <link rel="stylesheet" href="<?php echo base_url ();?>assets/jquery/jquery-ui.css">
     </head>
     <body data-spy="scroll" data-target="#myScrollspy" data-offset="20">
-      <!-- menu horizontal haut-->
-      <nav class="navbar navbar-fixed-top" style="background-color:whitesmoke;">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="#"><i class="fa fa-home fa" aria-hidden="true"> DailyTube</i></a>
-                </div>
-                <form class="navbar-form navbar-left">
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Search">
-                    </div>
-                <button type="submit" class="btn btn-success">Submit</button>
-                </form>
-                <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#" id="signUp" data-toggle="modal" data-target="#modalSignUp"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
-                    <li><a href="#" id="login" data-toggle="modal" data-target="#modalLogin"><span class="glyphicon glyphicon-log-in" id="login"></span> Login</a></li>
-                </ul>
-            </div>
-        </nav>
+		<!-- menu horizontal haut-->
+		<nav class="navbar navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="#"><img alt="DailyTube" src="<?php echo base_url ();?>assets/images/logo.png" id="logo"/></a>
+				</div>
+				<form class="navbar-form navbar-left">
+					<div class="form-group">
+						<input type="text" class="form-control" placeholder="Search">
+					</div>
+				<button type="submit" class="btn btn-success">Submit</button>
+				</form>
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+					<li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+				</ul>
+			</div>
+		</nav>
 
 <!-- Modal -->
 <div class="modal fade" id="modalSignUp" role="dialog">
