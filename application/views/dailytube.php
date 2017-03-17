@@ -82,7 +82,7 @@
 							</a>
 							-->
 							<a href="/w3images/lights.jpg" data-toggle="modal" data-target="#myModal" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 							  <div class="caption" style="white-space: nowrap;">
 								<small>koala, sa vie, son oeuvre.<br>
 								<a href="#">Comments <span class="badge">10</span></a></small>
@@ -94,7 +94,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>hiroshikoala mon amour.<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -105,7 +105,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le koala tueur.<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -116,7 +116,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le retour de koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -127,7 +127,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Les dessous de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -138,7 +138,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 								<a href="/w3images/lights.jpg" target="_blank">
-								  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+								  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 								  <div class="caption">
 									<small>kokakoala.<br>
 									<a href="#">Comments <span class="badge">10</span></a></small>
@@ -154,7 +154,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 							  <div class="caption">
 								<small>koala fait du ski.<br>
 								<a href="#">Comments <span class="badge">10</span></a></small>
@@ -165,7 +165,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>koala contre-attaque<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -176,7 +176,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>les 3 koalas<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -187,7 +187,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>bienvenue chez koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -198,7 +198,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption"  style="white-space: nowrap;">
 								<small>le fabuleux destin de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -209,7 +209,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>koala driver<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -229,7 +229,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 										<!-- style="white-space: nowrap;" : pour forcer le texte a rester sur la meme ligne-->
 							  <div class="caption" style="white-space: nowrap;">
 								<small>koala, sa vie, son oeuvre.<br>
@@ -241,7 +241,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>hiroshikoala mon amour.<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -252,7 +252,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le koala tueur.<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -263,7 +263,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le retour de koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -274,7 +274,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Les dessous de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -285,7 +285,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 								<a href="/w3images/lights.jpg" target="_blank">
-								  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+								  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 								  <div class="caption">
 									<small>kokakoala.<br>
 									<a href="#">Comments <span class="badge">10</span></a></small>
@@ -301,7 +301,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 							  <div class="caption">
 								<small>koala fait du ski.<br>
 								<a href="#">Comments <span class="badge">10</span></a></small>
@@ -312,7 +312,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>koala contre-attaque<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -323,7 +323,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>les 3 koalas<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -334,7 +334,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>bienvenue chez koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -345,7 +345,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption"  style="white-space: nowrap;">
 								<small>le fabuleux destin de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -356,7 +356,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>koala driver<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -376,7 +376,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 										<!-- style="white-space: nowrap;" : pour forcer le texte a rester sur la meme ligne-->
 							  <div class="caption" style="white-space: nowrap;">
 								<small>koala, sa vie, son oeuvre.<br>
@@ -388,7 +388,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>hiroshikoala mon amour.<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -399,7 +399,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le koala tueur.<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -410,7 +410,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le retour de koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -421,7 +421,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Les dessous de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -432,7 +432,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 								<a href="/w3images/lights.jpg" target="_blank">
-								  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+								  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 								  <div class="caption">
 									<small>kokakoala.<br>
 									<a href="#">Comments <span class="badge">10</span></a></small>
@@ -448,7 +448,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 							  <div class="caption">
 								<small>koala fait du ski.<br>
 								<a href="#">Comments <span class="badge">10</span></a></small>
@@ -459,7 +459,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>koala contre-attaque<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -470,7 +470,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>les 3 koalas<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -481,7 +481,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>bienvenue chez koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -492,7 +492,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption"  style="white-space: nowrap;">
 								<small>le fabuleux destin de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -503,7 +503,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>koala driver<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -523,7 +523,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 										<!-- style="white-space: nowrap;" : pour forcer le texte a rester sur la meme ligne-->
 							  <div class="caption" style="white-space: nowrap;">
 								<small>koala, sa vie, son oeuvre.<br>
@@ -535,7 +535,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>hiroshikoala mon amour.<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -546,7 +546,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le koala tueur.<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -557,7 +557,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le retour de koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -568,7 +568,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Les dessous de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -579,7 +579,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 								<a href="/w3images/lights.jpg" target="_blank">
-								  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+								  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 								  <div class="caption">
 									<small>kokakoala.<br>
 									<a href="#">Comments <span class="badge">10</span></a></small>
@@ -595,7 +595,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 							  <div class="caption">
 								<small>koala fait du ski.<br>
 								<a href="#">Comments <span class="badge">10</span></a></small>
@@ -606,7 +606,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>koala contre-attaque<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -617,7 +617,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>les 3 koalas<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -628,7 +628,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>bienvenue chez koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -639,7 +639,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption"  style="white-space: nowrap;">
 								<small>le fabuleux destin de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -650,7 +650,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>koala driver<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -670,7 +670,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 										<!-- style="white-space: nowrap;" : pour forcer le texte a rester sur la meme ligne-->
 							  <div class="caption" style="white-space: nowrap;">
 								<small>koala, sa vie, son oeuvre.<br>
@@ -682,7 +682,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>hiroshikoala mon amour.<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -693,7 +693,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le koala tueur.<br>
 								<a href="#">Comments <span class="badge">0</span></a></small>
@@ -704,7 +704,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Le retour de koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -715,7 +715,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>Les dessous de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -726,7 +726,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 								<a href="/w3images/lights.jpg" target="_blank">
-								  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+								  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 								  <div class="caption">
 									<small>kokakoala.<br>
 									<a href="#">Comments <span class="badge">10</span></a></small>
@@ -742,7 +742,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/lights.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Lights" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Lights" style="width:100%">
 							  <div class="caption">
 								<small>koala fait du ski.<br>
 								<a href="#">Comments <span class="badge">10</span></a></small>
@@ -753,7 +753,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/nature.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Nature" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Nature" style="width:100%">
 							  <div class="caption">
 								<small>koala contre-attaque<br>
 								<a href="#">Comments <span class="badge">1</span></a></small>
@@ -764,10 +764,10 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>les 3 koalas<br>
-								<a href="#">Comments <span class="badge">0</span></a></small>
+								<a href="#">Comments <span class="badge">0</span></a></small>Z
 							  </div>
 							</a>
 						  </div>
@@ -775,7 +775,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>bienvenue chez koala.<br>
 								<a href="#">Comments <span class="badge">6</span></a></small>
@@ -786,7 +786,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 						  <div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption"  style="white-space: nowrap;">
 								<small>le fabuleux destin de koala.<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
@@ -797,7 +797,7 @@
 						<div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
 							<div class="thumbnail">
 							<a href="/w3images/fjords.jpg" target="_blank">
-							  <img src="assets/koala.jpg" alt="Fjords" style="width:100%">
+							  <img src="assets/images/koala.jpg" alt="Fjords" style="width:100%">
 							  <div class="caption">
 								<small>koala driver<br>
 								<a href="#">Comments <span class="badge">4</span></a></small>
